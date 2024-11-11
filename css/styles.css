@@ -77,5 +77,41 @@ ul {
   list-style: none;
 }
 
+/* Personaje */
+.character-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.character-image {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  color: #555;
+  text-align: center;
+}
+
+#character-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+
 
 
