@@ -2,7 +2,7 @@
 
 Este ejercicio consiste en crear una página web que muestra los personajes de la serie de televisión "Rick and Morty". Los personajes se obtienen de la API de Rick and Morty y se muestran en una lista paginada con imágenes, nombres y especies.
 
-[Ver Rick and Morty](https://juanjdes.github.io/diversion-con-banderas/)
+[Ver Rick and Morty](https://juanjdes.github.io/rick-and-morty-characters/)
 
 ## Captura de Pantalla
 Debería quedar algo parecido a esto
